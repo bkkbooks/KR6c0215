@@ -1,0 +1,189 @@
+canonical_identifier: bkk:krp/KR6c0215/v1
+canonical_location: https://kanripo.org/bkk/KR6c0215/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 仁王經疏
+  identifiers:
+    alt_id:
+    - X26n0520
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0520.xml
+    old_id: X26n0520
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0215_000.yaml, hash: 'sha256:01de7f2b71433724c526088de7279748cf5b872e71a860c8955fbb67dd9a49b2'}
+  - {seq: 1, filename: KR6c0215_001.yaml, hash: 'sha256:f6aeaa2e93e15429a332998f5034c4370cb6e23afb250ad79b5a7615572840bf'}
+  - {seq: 2, filename: KR6c0215_002.yaml, hash: 'sha256:a3243e4b1d09bfbaa8fecb85c16468946dc7c43c7b3e500f0b6adbc99d278fa4'}
+  - {seq: 3, filename: KR6c0215_003.yaml, hash: 'sha256:3c1f6e738115fb95e429b05d0d1b5be4d85aab117fc2705f117ca109f801f36c'}
+  - {seq: 4, filename: KR6c0215_004.yaml, hash: 'sha256:6c0c2fb6d75deacf8dcf86414d229b7164d52af824b5ccc51697dc7b8d7c4c30'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0215_000.markers.yaml, hash: 'sha256:6c42c31dbad82f1949a6ba77e0cce7604814eb1c6fbc9bc8c0bfa0909822edaf'}
+  - {seq: 1, role: markers, filename: assets/KR6c0215_001.markers.yaml, hash: 'sha256:fb0c24b0bda0a068696566558d0e2764ac974926a608f69ed6640eb0c522d69c'}
+  - {seq: 2, role: markers, filename: assets/KR6c0215_002.markers.yaml, hash: 'sha256:86614ab46c296e443ce1941e74545ff1ae1c3efbd679ff5dc6a042ec1e7d8312'}
+  - {seq: 3, role: markers, filename: assets/KR6c0215_003.markers.yaml, hash: 'sha256:34e6ef7f1fe2627cea73d684fc0dbbcaa963a118adbaf03604ab8252fc23b7ce'}
+  - {seq: 4, role: markers, filename: assets/KR6c0215_004.markers.yaml, hash: 'sha256:fffce5cf9febed730b6a2d305139f08887f6f8f40837b03c3e0c5a89a5c51b6f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0215_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 520-A 注仁王般若經科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0215_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11480
+  label: 注仁王護國般若經卷第一并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0215_X_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0215_X_001-mulu-2
+    span:
+    - body
+    - 360
+    - 360
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0215_X_001-mulu-3
+    span:
+    - body
+    - 772
+    - 772
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0215_X_001-mulu-4
+    span:
+    - body
+    - 5923
+    - 5923
+  label: 觀如來品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0215_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 12963
+  label: 注仁王護國般若經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0215_X_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 菩薩行品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0215_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15001
+  label: 注仁王護國般若經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0215_X_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 二諦品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0215_X_003-mulu-2
+    span:
+    - body
+    - 3863
+    - 3863
+  label: 護國品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0215_X_003-mulu-3
+    span:
+    - body
+    - 6854
+    - 6854
+  label: 不思議品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0215_X_003-mulu-4
+    span:
+    - body
+    - 9049
+    - 9049
+  label: 奉持品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0215_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15340
+  label: 注仁王護國般若經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0215_X_004-mulu-1
+    span:
+    - body
+    - 12785
+    - 12785
+  label: 囑累品第八
+  type: mulu
+  level: 1
+hash: sha256:52594afef40052b0acffde9d6d4920a62b65d72fb2b2edb63e347f3a5a1547d5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
