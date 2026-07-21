@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0215_000.yaml, hash: 'sha256:0581b957524076bb46792f5bfbc1f5ff65d978ddeafa67b083b0dc8773f11852'}
+  - {seq: 0, filename: KR6c0215_000.yaml, hash: 'sha256:63d841e2f2a429bee283a504e5f805eb47bc1cb7f12905847078c6c741b8a565'}
   - {seq: 1, filename: KR6c0215_001.yaml, hash: 'sha256:f768dea6c8fa2431afc025af4104a478229c3860a64b2d5708ebdb553f9f3dfe'}
   - {seq: 2, filename: KR6c0215_002.yaml, hash: 'sha256:d11b0a9fae465f66477718185f740c9adc7914ff24cb6197d43035ec27415ea1'}
   - {seq: 3, filename: KR6c0215_003.yaml, hash: 'sha256:cbe815fe26d333de1963953fbd04b5eb7939cc15cde32a04cc9563caf1c140b9'}
   - {seq: 4, filename: KR6c0215_004.yaml, hash: 'sha256:27fe2a0883305e565c82ace4c1ca60ab4cb9be6ce97e7781405ad82fc4d2d5a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0215_000.markers.yaml, hash: 'sha256:bb90930edca4c70a99eaf3128097243fba148461889a8994719cd44400cec6b2'}
+  - {seq: 0, role: markers, filename: assets/KR6c0215_000.markers.yaml, hash: 'sha256:a8500a33701217376ecbc6617980948a4e439b43f7073a403c0a1bcf88b97fb5'}
   - {seq: 1, role: markers, filename: assets/KR6c0215_001.markers.yaml, hash: 'sha256:28f3b997c0e80a62ddd71c90015b904fc66ed931ad822423ed4e268b6b41e1e3'}
   - {seq: 2, role: markers, filename: assets/KR6c0215_002.markers.yaml, hash: 'sha256:0715477ffe475ac99b1c05f16d734c55f5d421a6ef93bd71b512ca4bb0ffda23'}
   - {seq: 3, role: markers, filename: assets/KR6c0215_003.markers.yaml, hash: 'sha256:6fcf58dfd5b598f5f0f7bce31408a066ef6aade0335b01c81596016b3d91d204'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0215_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 520-A 注仁王般若經科
@@ -183,7 +183,7 @@ table_of_contents:
   label: 囑累品第八
   type: mulu
   level: 1
-hash: sha256:44b52474acdd22d0788010db6acb6f7fd2125e855c5a7e10e7a153ce77e9361e
+hash: sha256:7835d062e8657f30bf693f456e69aeb5dd2c6fc45f9f81b6b1d802c2162d54e9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
